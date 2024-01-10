@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2b080c4-3dde-4ac5-9ae4-87fa505ab04d" name="Changes" comment="Fix NPC not showing up bug">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/fallqvist/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/fallqvist/GamePanel.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2AQcvTJVp1RhbrNgzQgKK62ALSB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/JAVA/treasure-hunt-game/src/main/resources/maps&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JAVA\treasure-hunt-game\src\main\resources\maps" />
+      <recent name="E:\JAVA\treasure-hunt-game\src\main\resources\images\tiles\interactive" />
+      <recent name="E:\JAVA\treasure-hunt-game\src\main\resources\images\ability" />
+      <recent name="E:\JAVA\treasure-hunt-game\src\main\resources\images\player" />
+      <recent name="E:\JAVA\treasure-hunt-game\src\main\resources\images\monster" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JAVA\treasure-hunt-game\src\main\resources\images" />
+      <recent name="E:\JAVA\treasure-hunt-game\src\main\resources\images\player" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.tech.fallqvist.Main">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tech.fallqvist.Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tech.fallqvist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tech.fallqvist.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tech.fallqvist.Main" />
+      <module name="treasure-hunt-game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tech.fallqvist.event.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.tech.fallqvist.Main" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.tech.fallqvist.Main" />
+        <item itemvalue="Application.tech.fallqvist.Main" />
+        <item itemvalue="Application.tech.fallqvist.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2b080c4-3dde-4ac5-9ae4-87fa505ab04d" name="Changes" comment="" />
+      <created>1654945479511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654945479511</updated>
+      <workItem from="1654945481202" duration="401000" />
+      <workItem from="1654946231815" duration="27000" />
+      <workItem from="1654950314383" duration="2953000" />
+      <workItem from="1655060101437" duration="10549000" />
+      <workItem from="1655746242686" duration="13435000" />
+      <workItem from="1655837448463" duration="993000" />
+      <workItem from="1655921548656" duration="4322000" />
+      <workItem from="1656259142120" duration="15716000" />
+      <workItem from="1656354436404" duration="6492000" />
+      <workItem from="1656521661643" duration="3620000" />
+      <workItem from="1656872691913" duration="214000" />
+      <workItem from="1656872955427" duration="6651000" />
+      <workItem from="1656959797369" duration="4892000" />
+      <workItem from="1657653778996" duration="4816000" />
+      <workItem from="1658082005757" duration="12554000" />
+      <workItem from="1658156599844" duration="3086000" />
+      <workItem from="1658600013643" duration="1207000" />
+      <workItem from="1658602176603" duration="8204000" />
+      <workItem from="1658655037483" duration="3765000" />
+      <workItem from="1659303527234" duration="51000" />
+      <workItem from="1659977040122" duration="735000" />
+      <workItem from="1659978094315" duration="7146000" />
+      <workItem from="1660487487307" duration="595000" />
+      <workItem from="1660567762781" duration="608000" />
+      <workItem from="1660568477424" duration="427000" />
+      <workItem from="1660568913558" duration="18061000" />
+      <workItem from="1660600839822" duration="3144000" />
+      <workItem from="1660659943874" duration="12025000" />
+      <workItem from="1660855231172" duration="4612000" />
+      <workItem from="1660902851759" duration="5897000" />
+      <workItem from="1661021051395" duration="8711000" />
+      <workItem from="1661194460842" duration="2328000" />
+      <workItem from="1662286637660" duration="25000" />
+      <workItem from="1662286705691" duration="686000" />
+      <workItem from="1664725400116" duration="210000" />
+    </task>
+    <task id="LOCAL−00038" summary="Add Player attack animation">
+      <created>1656531894954</created>
+      <option name="number" value="LOCAL−00038" />
+      <option name="presentableId" value="LOCAL−00038" />
+      <updated>1656531894954</updated>
+    </task>
+    <task id="LOCAL−00039" summary="Add enemy hit detection">
+      <created>1656873501071</created>
+      <option name="number" value="LOCAL−00039" />
+      <option name="presentableId" value="LOCAL−00039" />
+      <updated>1656873501071</updated>
+    </task>
+    <task id="LOCAL−00040" summary="Add enemy death animation">
+      <created>1656876473059</created>
+      <option name="number" value="LOCAL−00040" />
+      <option name="presentableId" value="LOCAL−00040" />
+      <updated>1656876473059</updated>
+    </task>
+    <task id="LOCAL−00041" summary="Add combat sound effects">
+      <created>1656876993421</created>
+      <option name="number" value="LOCAL−00041" />
+      <option name="presentableId" value="LOCAL−00041" />
+      <updated>1656876993421</updated>
+    </task>
+    <task id="LOCAL−00042" summary="Add hp bar">
+      <created>1656878404240</created>
+      <option name="number" value="LOCAL−00042" />
+      <option name="presentableId" value="LOCAL−00042" />
+      <updated>1656878404240</updated>
+    </task>
+    <task id="LOCAL−00043" summary="Add enemy damage reaction">
+      <created>1656879044473</created>
+      <option name="number" value="LOCAL−00043" />
+      <option name="presentableId" value="LOCAL−00043" />
+      <updated>1656879044473</updated>
+    </task>
+    <task id="LOCAL−00044" summary="Add sound effects to damagePit, healingPool and teleport events">
+      <created>1656960105308</created>
+      <option name="number" value="LOCAL−00044" />
+      <option name="presentableId" value="LOCAL−00044" />
+      <updated>1656960105308</updated>
+    </task>
+    <task id="LOCAL−00045" summary="Fix player moving forward when attacking">
+      <created>1656960950069</created>
+      <option name="number" value="LOCAL−00045" />
+      <option name="presentableId" value="LOCAL−00045" />
+      <updated>1656960950069</updated>
+    </task>
+    <task id="LOCAL−00046" summary="Fix player twitch when attacking">
+      <created>1656961134531</created>
+      <option name="number" value="LOCAL−00046" />
+      <option name="presentableId" value="LOCAL−00046" />
+      <updated>1656961134531</updated>
+    </task>
+    <task id="LOCAL−00047" summary="Add Player stats">
+      <created>1656962398039</created>
+      <option name="number" value="LOCAL−00047" />
+      <option name="presentableId" value="LOCAL−00047" />
+      <updated>1656962398039</updated>
+    </task>
+    <task id="LOCAL−00048" summary="Add Character window when pressing C, with Player stats and equipment">
+      <created>1656964677903</created>
+      <option name="number" value="LOCAL−00048" />
+      <option name="presentableId" value="LOCAL−00048" />
+      <updated>1656964677903</updated>
+    </task>
+    <task id="LOCAL−00049" summary="Add Attack and Defense power based damage">
+      <created>1657655166784</created>
+      <option name="number" value="LOCAL−00049" />
+      <option name="presentableId" value="LOCAL−00049" />
+      <updated>1657655166784</updated>
+    </task>
+    <task id="LOCAL−00050" summary="Add Battle messages">
+      <created>1657656654320</created>
+      <option name="number" value="LOCAL−00050" />
+      <option name="presentableId" value="LOCAL−00050" />
+      <updated>1657656654321</updated>
+    </task>
+    <task id="LOCAL−00051" summary="Add Basic level system and monster respawn when resting">
+      <created>1657657985651</created>
+      <option name="number" value="LOCAL−00051" />
+      <option name="presentableId" value="LOCAL−00051" />
+      <updated>1657657985651</updated>
+    </task>
+    <task id="LOCAL−00052" summary="Add debug for x, y, column and row of the player">
+      <created>1658083542018</created>
+      <option name="number" value="LOCAL−00052" />
+      <option name="presentableId" value="LOCAL−00052" />
+      <updated>1658083542019</updated>
+    </task>
+    <task id="LOCAL−00053" summary="Add map instant refresh by pressing &quot;R&quot; while the game is running (need to do CTRL+F9 after changing the map file if on IntelliJ)">
+      <created>1658084689094</created>
+      <option name="number" value="LOCAL−00053" />
+      <option name="presentableId" value="LOCAL−00053" />
+      <updated>1658084689094</updated>
+    </task>
+    <task id="LOCAL−00054" summary="Add inventory screen when pressing &quot;C&quot; and item description">
+      <created>1658089772057</created>
+      <option name="number" value="LOCAL−00054" />
+      <option name="presentableId" value="LOCAL−00054" />
+      <updated>1658089772057</updated>
+    </task>
+    <task id="LOCAL−00055" summary="Fix item description window so it only appears once item is hovered over">
+      <created>1658089936351</created>
+      <option name="number" value="LOCAL−00055" />
+      <option name="presentableId" value="LOCAL−00055" />
+      <updated>1658089936351</updated>
+    </task>
+    <task id="LOCAL−00056" summary="Add item pickup and equip">
+      <created>1658095488697</created>
+      <option name="number" value="LOCAL−00056" />
+      <option name="presentableId" value="LOCAL−00056" />
+      <updated>1658095488697</updated>
+    </task>
+    <task id="LOCAL−00057" summary="Fix bug where receiving damage while monster is dying">
+      <created>1658159997006</created>
+      <option name="number" value="LOCAL−00057" />
+      <option name="presentableId" value="LOCAL−00057" />
+      <updated>1658159997006</updated>
+    </task>
+    <task id="LOCAL−00058" summary="Add Projectile mechanics">
+      <created>1658606275007</created>
+      <option name="number" value="LOCAL−00058" />
+      <option name="presentableId" value="LOCAL−00058" />
+      <updated>1658606275007</updated>
+    </task>
+    <task id="LOCAL−00059" summary="Add Monster Rock Projectile &amp; AI">
+      <created>1658608287723</created>
+      <option name="number" value="LOCAL−00059" />
+      <option name="presentableId" value="LOCAL−00059" />
+      <updated>1658608287723</updated>
+    </task>
+    <task id="LOCAL−00060" summary="Add Mana &amp; Ammo">
+      <created>1658610671463</created>
+      <option name="number" value="LOCAL−00060" />
+      <option name="presentableId" value="LOCAL−00060" />
+      <updated>1658610671463</updated>
+    </task>
+    <task id="LOCAL−00061" summary="Refactor GamePanel">
+      <created>1658656980461</created>
+      <option name="number" value="LOCAL−00061" />
+      <option name="presentableId" value="LOCAL−00061" />
+      <updated>1658656980461</updated>
+    </task>
+    <task id="LOCAL−00062" summary="Refactor KeyHandler">
+      <created>1658656992974</created>
+      <option name="number" value="LOCAL−00062" />
+      <option name="presentableId" value="LOCAL−00062" />
+      <updated>1658656992974</updated>
+    </task>
+    <task id="LOCAL−00063" summary="Refactor UI">
+      <created>1658658347461</created>
+      <option name="number" value="LOCAL−00063" />
+      <option name="presentableId" value="LOCAL−00063" />
+      <updated>1658658347461</updated>
+    </task>
+    <task id="LOCAL−00064" summary="Refactor Objects">
+      <created>1658658755099</created>
+      <option name="number" value="LOCAL−00064" />
+      <option name="presentableId" value="LOCAL−00064" />
+      <updated>1658658755099</updated>
+    </task>
+    <task id="LOCAL−00065" summary="Refactor Equipment">
+      <created>1658662120430</created>
+      <option name="number" value="LOCAL−00065" />
+      <option name="presentableId" value="LOCAL−00065" />
+      <updated>1658662120430</updated>
+    </task>
+    <task id="LOCAL−00066" summary="Refactor Entity, Player and Object">
+      <created>1658663606019</created>
+      <option name="number" value="LOCAL−00066" />
+      <option name="presentableId" value="LOCAL−00066" />
+      <updated>1658663606019</updated>
+    </task>
+    <task id="LOCAL−00067" summary="Add Shield superclass">
+      <created>1658663619339</created>
+      <option name="number" value="LOCAL−00067" />
+      <option name="presentableId" value="LOCAL−00067" />
+      <updated>1658663619339</updated>
+    </task>
+    <task id="LOCAL−00068" summary="Add Weapon superclass">
+      <created>1658663624005</created>
+      <option name="number" value="LOCAL−00068" />
+      <option name="presentableId" value="LOCAL−00068" />
+      <updated>1658663624005</updated>
+    </task>
+    <task id="LOCAL−00069" summary="Refactor Entity draw method">
+      <created>1658664247421</created>
+      <option name="number" value="LOCAL−00069" />
+      <option name="presentableId" value="LOCAL−00069" />
+      <updated>1658664247421</updated>
+    </task>
+    <task id="LOCAL−00070" summary="Add PickUpOnlyObject in preparation for monster item drops">
+      <created>1658667183561</created>
+      <option name="number" value="LOCAL−00070" />
+      <option name="presentableId" value="LOCAL−00070" />
+      <updated>1658667183561</updated>
+    </task>
+    <task id="LOCAL−00071" summary="Add monster item drop">
+      <created>1658685009116</created>
+      <option name="number" value="LOCAL−00071" />
+      <option name="presentableId" value="LOCAL−00071" />
+      <updated>1658685009116</updated>
+    </task>
+    <task id="LOCAL−00072" summary="Add Interactive Tiles">
+      <created>1658692201027</created>
+      <option name="number" value="LOCAL−00072" />
+      <option name="presentableId" value="LOCAL−00072" />
+      <updated>1658692201027</updated>
+    </task>
+    <task id="LOCAL−00073" summary="Remove debug sout">
+      <created>1659303568973</created>
+      <option name="number" value="LOCAL−00073" />
+      <option name="presentableId" value="LOCAL−00073" />
+      <updated>1659303568973</updated>
+    </task>
+    <task id="LOCAL−00074" summary="Add Particles when hitting InteractiveTile">
+      <created>1659982941056</created>
+      <option name="number" value="LOCAL−00074" />
+      <option name="presentableId" value="LOCAL−00074" />
+      <updated>1659982941056</updated>
+    </task>
+    <task id="LOCAL−00075" summary="Add Particles to Fireball and Rock">
+      <created>1659983942315</created>
+      <option name="number" value="LOCAL−00075" />
+      <option name="presentableId" value="LOCAL−00075" />
+      <updated>1659983942315</updated>
+    </task>
+    <task id="LOCAL−00076" summary="Add Fullscreen functionality (menu bug)">
+      <created>1660572741482</created>
+      <option name="number" value="LOCAL−00076" />
+      <option name="presentableId" value="LOCAL−00076" />
+      <updated>1660572741483</updated>
+    </task>
+    <task id="LOCAL−00077" summary="Add Options menu">
+      <created>1660580876734</created>
+      <option name="number" value="LOCAL−00077" />
+      <option name="presentableId" value="LOCAL−00077" />
+      <updated>1660580876734</updated>
+    </task>
+    <task id="LOCAL−00078" summary="Fix title menu bug">
+      <created>1660584786842</created>
+      <option name="number" value="LOCAL−00078" />
+      <option name="presentableId" value="LOCAL−00078" />
+      <updated>1660584786842</updated>
+    </task>
+    <task id="LOCAL−00079" summary="Add Config file save/load">
+      <created>1660586382834</created>
+      <option name="number" value="LOCAL−00079" />
+      <option name="presentableId" value="LOCAL−00079" />
+      <updated>1660586382834</updated>
+    </task>
+    <task id="LOCAL−00080" summary="Add GameOver screen">
+      <created>1660603948428</created>
+      <option name="number" value="LOCAL−00080" />
+      <option name="presentableId" value="LOCAL−00080" />
+      <updated>1660603948428</updated>
+    </task>
+    <task id="LOCAL−00081" summary="Refactor in preparation for map transition">
+      <created>1660859522919</created>
+      <option name="number" value="LOCAL−00081" />
+      <option name="presentableId" value="LOCAL−00081" />
+      <updated>1660859522919</updated>
+    </task>
+    <task id="LOCAL−00082" summary="Add interactive tiles in preparation for map transition">
+      <created>1660903820084</created>
+      <option name="number" value="LOCAL−00082" />
+      <option name="presentableId" value="LOCAL−00082" />
+      <updated>1660903820084</updated>
+    </task>
+    <task id="LOCAL−00083" summary="Add map transition">
+      <created>1660935165023</created>
+      <option name="number" value="LOCAL−00083" />
+      <option name="presentableId" value="LOCAL−00083" />
+      <updated>1660935165023</updated>
+    </task>
+    <task id="LOCAL−00084" summary="Add map transition effect">
+      <created>1660936012324</created>
+      <option name="number" value="LOCAL−00084" />
+      <option name="presentableId" value="LOCAL−00084" />
+      <updated>1660936012325</updated>
+    </task>
+    <task id="LOCAL−00085" summary="Add merchant npc and mechanics (npc slow spawn bug)">
+      <created>1661029565557</created>
+      <option name="number" value="LOCAL−00085" />
+      <option name="presentableId" value="LOCAL−00085" />
+      <updated>1661029565557</updated>
+    </task>
+    <task id="LOCAL−00086" summary="Fix NPC not showing up bug">
+      <created>1661195147847</created>
+      <option name="number" value="LOCAL−00086" />
+      <option name="presentableId" value="LOCAL−00086" />
+      <updated>1661195147847</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Refactor KeyHandler" />
+    <MESSAGE value="Refactor UI" />
+    <MESSAGE value="Refactor Objects" />
+    <MESSAGE value="Refactor Equipment" />
+    <MESSAGE value="Refactor Entity, Player and Object" />
+    <MESSAGE value="Add Shield superclass" />
+    <MESSAGE value="Add Weapon superclass" />
+    <MESSAGE value="Refactor Entity draw method" />
+    <MESSAGE value="Add PickUpOnlyObject in preparation for monster item drops" />
+    <MESSAGE value="Add monster item drop" />
+    <MESSAGE value="Add Interactive Tiles" />
+    <MESSAGE value="Remove debug sout" />
+    <MESSAGE value="Add Particles when hitting InteractiveTile" />
+    <MESSAGE value="Add Particles to Fireball and Rock" />
+    <MESSAGE value="Add Fullscreen functionality (menu bug)" />
+    <MESSAGE value="Add Options menu" />
+    <MESSAGE value="Fix title menu bug" />
+    <MESSAGE value="Add Config file save/load" />
+    <MESSAGE value="Add GameOver screen" />
+    <MESSAGE value="Refactor in preparation for map transition" />
+    <MESSAGE value="Add interactive tiles in preparation for map transition" />
+    <MESSAGE value="Add map transition" />
+    <MESSAGE value="Add map transition effect" />
+    <MESSAGE value="Add merchant npc and mechanics (npc slow spawn bug)" />
+    <MESSAGE value="Fix NPC not showing up bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix NPC not showing up bug" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+</project>
